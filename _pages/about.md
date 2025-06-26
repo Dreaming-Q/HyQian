@@ -24,8 +24,10 @@ Selected Honors ＆ Awards
 Miscellaneous
 ======
 <!-- ------用这个注释字体会更小 -->
-I love running,table tennis, piano, traveling and so much more.  
-🏃‍♀️ You can always find me running on the track or playing table tennis at night.  
+I love running, table tennis, piano, traveling and so much more.  
+
+🏃‍♀️ You can always find me running on the track or playing table tennis at night.    
+
 🎹 Pianist of amateur level 9
 
 <!-- Example: editing a markdown file for a talk
